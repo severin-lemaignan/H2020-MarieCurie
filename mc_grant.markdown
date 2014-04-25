@@ -1,7 +1,12 @@
 General ideas
 ==============
 - study of the human mind capacities in terms of changing the common states of consciousness (through meditation, hypnosis) to better understand the mind and brain and the possibilities to "get better" without medication
-- better understanm
+- better understanding of the neural correlates of the state of hypnosis: role of imagination
+- neurofeedback/biofeedback training 
+
+- difficulty and innovation of these type of research
+
+- the role of thoughts and imagination in establishing states of consciousness /leading into hypnosis
 
 
 
