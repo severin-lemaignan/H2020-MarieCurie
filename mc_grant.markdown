@@ -8,7 +8,11 @@ General ideas
 
 - the role of thoughts and imagination in establishing states of consciousness /leading into hypnosis
 
+- neurofeedback
 
+- NIRS
+- TMS
+- TDC
 
 
 I. Summary
@@ -20,6 +24,43 @@ II. Excellence
 Quality, innovative aspects and credibility of the research
 ------------------------------------------------------------
  1. Introduction, state of the art, objective and overview of the action
+
+Background
+----------
+Mental imagery is the ability to reactivate and manipulate modality-specific mental representation in the absence of current sensory stimulation. Mental imagery is a pervasive experience of every day life. 
+It is present when you are day dreaming and see yourself at the top of a mountain while being seated at your office. Mental imagery is also a phenomenon that is being used to induce specific states of consciousness as in hypnosis and meditation.
+Mental imagery is also used in clinical settings for rehabilitation or in sports to increase performances.
+Indeed, mentally imagining an action is affecting the same neural networks as physically performing this action.
+
+In hypnosis people can get deeply engaged in multimodal mental images: seeing themselves at the sea, feeling the heat of the sun on their skin and the tatse of salt in their mouth, listening to sound of the waves.
+
+Yet there are individual differences in the capacity to create mental images.
+
+Hypnosis is succesfully used in clinical settings to help reducing injections of anesthestized product, help recovery after operation as well as relieving of chronic pain.
+The use of hypnosis in experimental settings help uncovering the functioning of diverse cognitive systems by altering their processes as well as pushing forward our understanding of consciousness.
+
+Yet we lack a formal understanding of the way hypnosis work. 
+
+Hypnosis: hetero-induced, role of social interaction (except for self-hypnosis)
+Meditation: self induced (except guided meditation), role of satellite information ? (compliance to books, teaching of a meditation leader etc.. ?)
+
+Mental imagery: self induced, often towards a goal (performance in sports, music). Requierement of a regular practice ?
+
+Meditation is as well a mental practice that has proven to be successfull in clinical settings. 
+Knowledge on cerebral basis of meditation has greatly advanced in the past 10 years. 
+
+Research questions
+------------------
+
+- similarities/difference between meditation, hypnosis and mental imagery ?
+    * neural correlates
+    * phenomenology
+    * effects on the body/mind
+
+
+
+
+
  2. Research methodology and approach
  3. Originality and innovative aspects of the research programme (explain contribution of the project to make advancement within the project field)
  
