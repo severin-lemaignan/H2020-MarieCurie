@@ -65,7 +65,13 @@ Research questions
 
 
  2. Research methodology and approach
- 3. Originality and innovative aspects of the research programme (explain contribution of the project to make advancement within the project field)
+
+Using TDCS after effect, study occurrences of MW after stimulation of precuneus ?
+Using TDCS/TMS on precuneus, study how it might affect the phenomenology of mental imagery ?
+
+
+
+3. Originality and innovative aspects of the research programme (explain contribution of the project to make advancement within the project field)
  
  Emphasize how the high quality, novel research is the most likely to open up the best carrere possibilities for the Experienced Researcher and new collaboration opportunities for the host organisation
 
