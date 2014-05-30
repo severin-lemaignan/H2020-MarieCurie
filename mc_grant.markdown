@@ -1,12 +1,7 @@
 General ideas
 ==============
 - study of the human mind capacities in terms of changing the common states of consciousness (through meditation, hypnosis) to better understand the mind and brain and the possibilities to "get better" without medication
-- better understanding of the neural correlates of the state of hypnosis: role of imagination
-- neurofeedback/biofeedback training 
-
-- difficulty and innovation of these type of research
-
-- the role of thoughts and imagination in establishing states of consciousness /leading into hypnosis
+- better understanm
 
 - neurofeedback
 
@@ -53,13 +48,20 @@ Research questions
 ------------------
 
 - similarities/difference between meditation, hypnosis and mental imagery ?
-    * neural correlates - structures, effect on DMN, brain dynamic
+    * neural correlates
     * phenomenology
     * effects on the body/mind
 
-- best ways to integrate it in clinic, best technique for which case ?
-develop coomon scales
-- Applications, neurofeedback etc..
+- study of spontaneous thoughts as they manifest during mind wandering
+    * Can we find mental imagery during mind wandering ?
+    * How do spontaneous thoughts emerge: brain activity (DMN ?), EEG correlates of DMN
+    * In which conditions do they emerge
+    * What are their outcome ? When is it beneficial / detrimental ?
+    * Role of the precuneus ? Would its activity trigger spontaneous mental imagery ? In what conditions ?
+    * TDSC/TMS on precuneus
+    * Meditation: a state with no spontaneous thoughts
+    * Hypnosis : ? Based on mental imagery, Spontaneous thoughts seem to be reduced but how ? Can there be mind wandering during hypnosis ?
+
 
 
  2. Research methodology and approach
