@@ -52,7 +52,15 @@ Research questions
     * phenomenology
     * effects on the body/mind
 
-
+- study of spontaneous thoughts as they manifest during mind wandering
+    * Can we find mental imagery during mind wandering ?
+    * How do spontaneous thoughts emerge: brain activity (DMN ?), EEG correlates of DMN
+    * In which conditions do they emerge
+    * What are their outcome ? When is it beneficial / detrimental ?
+    * Role of the precuneus ? Would its activity trigger spontaneous mental imagery ? In what conditions ?
+    * TDSC/TMS on precuneus
+    * Meditation: a state with no spontaneous thoughts
+    * Hypnosis : ? Based on mental imagery, Spontaneous thoughts seem to be reduced but how ? Can there be mind wandering during hypnosis ?
 
 
 
