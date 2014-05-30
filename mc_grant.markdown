@@ -53,12 +53,13 @@ Research questions
 ------------------
 
 - similarities/difference between meditation, hypnosis and mental imagery ?
-    * neural correlates
+    * neural correlates - structures, effect on DMN, brain dynamic
     * phenomenology
     * effects on the body/mind
 
-
-
+- best ways to integrate it in clinic, best technique for which case ?
+develop coomon scales
+- Applications, neurofeedback etc..
 
 
  2. Research methodology and approach
